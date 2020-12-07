@@ -312,6 +312,24 @@ text-decoration: none;
     cursor:pointer;
     padding:8px 60px;
 }
+.btn_three {
+    width: 10%;
+    font-size:18px;
+    font-family: 'Josefin Sans', sans-serif;
+    color:#F1F1F3;
+    background:transparent;
+    border:3px solid #F1F1F3;
+    padding:8px 40px;
+    border-radius:80px;
+    font-weight:bold;
+    margin:2vh 10px;
+    transition:0.4s ease-in-out;
+}
+.btn_three:hover {
+    cursor:pointer;
+    color:#F1F1F3;
+    background:#F1F1F3;
+}
 .container form input {
     width:46%;
     margin:20px 1%;
